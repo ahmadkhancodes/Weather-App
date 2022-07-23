@@ -1,0 +1,9 @@
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.result-div{
+    background-color: aqua;
+    width: 50%;
+}
